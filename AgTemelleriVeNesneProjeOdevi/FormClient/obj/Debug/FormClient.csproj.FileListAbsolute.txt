@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\bin\Debug\FormClient.exe.config
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\bin\Debug\FormClient.exe
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\bin\Debug\FormClient.pdb
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\obj\Debug\FormClient.Form1.resources
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\obj\Debug\FormClient.Properties.Resources.resources
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\obj\Debug\FormClient.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\obj\Debug\FormClient.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\obj\Debug\FormClient.exe
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\obj\Debug\FormClient.pdb
+C:\Users\abdul\source\repos\AgTemelleriVeNesneProjeOdevi\FormClient\obj\Debug\FormClient.csprojAssemblyReference.cache

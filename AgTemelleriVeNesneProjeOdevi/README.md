@@ -1,4 +1,3 @@
-# Server-Client-Chat
 This project enables server-client communication using C# forms. Messages sent by clients can be viewed by all clients connected to the server.
 It validates user logins through a Microsoft Azure-hosted SQL database. Additionally, the server allows user management functionalities like adding and removing users.
 During message transmission, messages are encrypted using the Vigenere cipher method and decrypted on the server before being displayed on screen.
