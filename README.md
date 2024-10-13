@@ -11,8 +11,8 @@ Bu proje, C# kullanarak geliştirilen bir server-client iletişim uygulamasını
 ## Ekran Görüntüleri
 
 ### Server
-![Ana Sayfa Görüntüsü](images/ss1.png)
+![Server](images/ss1.png)
 
 
 ### Client
-![Blog](images/ss2.png)
+![Client](images/ss2.png)
